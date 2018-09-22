@@ -1,5 +1,5 @@
 _repo: Zeven-kleine-Australiers_55794
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Johnson, A. J.
@@ -9,6 +9,9 @@ contributor:
     agent_name: Brink, Marie ten
     gutenberg_agent_id: '48517'
     url: http://www.gutenberg.org/2009/agents/48517
+covers:
+- cover_type: archival
+  image_path: 55794-h/images/cover.jpg
 creator:
   author:
     agent_name: Turner, Ethel Sybil
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1561
     wikipedia: http://en.wikipedia.org/wiki/Ethel_Turner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55794#Zeven-kleine-Australiers
 gutenberg_issued: '2017-10-22'
 gutenberg_type: Text
 identifiers:
